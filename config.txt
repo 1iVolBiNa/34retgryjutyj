@@ -1,0 +1,6 @@
+﻿owner=449889801106096129
+prefix=h
+game= hplay | hhelp
+stayinchannel=true
+songinstatus=false
+token=NTcyNDI0NTkzNDE2MTI2NDc0.XMcGBg.BNeHk4aWTlH8LPuEaCXtaw_uoHY
